@@ -1,0 +1,12 @@
+[Files]
+"D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Release\AppxManifest.xml" "AppxManifest.xml"
+"D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Release\BookCricket.exe" "BookCricket.exe"
+"D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\Assets\Logo.scale-100.png" "Assets\Logo.scale-100.png"
+"D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\Assets\SmallLogo.scale-100.png" "Assets\SmallLogo.scale-100.png"
+"D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\Assets\SplashScreen.scale-100.png" "Assets\SplashScreen.scale-100.png"
+"D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\Assets\StoreLogo.scale-100.png" "Assets\StoreLogo.scale-100.png"
+"D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\Assets\Wide310x150Logo.scale-100.png" "Assets\Wide310x150Logo.scale-100.png"
+"D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\Common\ReadMe.txt" "Common\ReadMe.txt"
+"D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Release\App.xbf" "App.xbf"
+"D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Release\MainPage.xbf" "MainPage.xbf"
+"D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Release\resources.pri" "resources.pri"

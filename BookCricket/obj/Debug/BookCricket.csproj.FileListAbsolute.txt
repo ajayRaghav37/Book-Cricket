@@ -1,0 +1,155 @@
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\bin\Debug\App.xbf
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\bin\Debug\MainPage.xbf
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\bin\Debug\BookCricket.exe
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\bin\Debug\BookCricket.pdb
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\bin\Debug\resources.pri
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\bin\Debug\AppxManifest.xml
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\bin\Debug\BookCricket.build.appxrecipe
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\App.g.i.cs
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\App.g.cs
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\MainPage.g.i.cs
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\MainPage.g.cs
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\App.xaml
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\App.xbf
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\MainPage.xaml
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\MainPage.xbf
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\BookCricket.exe
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\BookCricket.pdb
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\priconfig.xml
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\priconfig.xml.intermediate
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\layout.resfiles
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\layout.resfiles.intermediate
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\resources.resfiles
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\resources.resfiles.intermediate
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\pri.resfiles
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\pri.resfiles.intermediate
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\qualifiers.txt
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Vikram Singh\AppData\Local\Temporary Projects\BookCricket\obj\Debug\ProjectArchitectures.txt
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\bin\Debug\App.xbf
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\bin\Debug\MainPage.xbf
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\bin\Debug\BookCricket.exe
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\bin\Debug\BookCricket.pdb
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\bin\Debug\resources.pri
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\bin\Debug\AppxManifest.xml
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\bin\Debug\BookCricket.build.appxrecipe
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\App.g.i.cs
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\App.g.cs
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\MainPage.g.i.cs
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\MainPage.g.cs
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\XamlTypeInfo.g.cs
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\App.xaml
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\MainPage.xaml
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\App.xbf
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\MainPage.xbf
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\XamlSaveStateFile.xml
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\BookCricket.exe
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\BookCricket.pdb
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\priconfig.xml
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\priconfig.xml.intermediate
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\layout.resfiles
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\layout.resfiles.intermediate
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\resources.resfiles
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\resources.resfiles.intermediate
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\pri.resfiles
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\pri.resfiles.intermediate
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\qualifiers.txt
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\qualifiers.txt.intermediate
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+d:\documents\visual studio 2013\Projects\BookCricket\BookCricket\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\bin\Debug\App.xbf
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\bin\Debug\MainPage.xbf
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\bin\Debug\BookCricket.exe
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\bin\Debug\BookCricket.pdb
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\bin\Debug\resources.pri
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\bin\Debug\AppxManifest.xml
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\bin\Debug\BookCricket.build.appxrecipe
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\App.g.i.cs
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\App.g.cs
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\MainPage.g.i.cs
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\MainPage.g.cs
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\App.xaml
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\MainPage.xaml
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\App.xbf
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\MainPage.xbf
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\BookCricket.exe
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\BookCricket.pdb
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\priconfig.xml
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\layout.resfiles
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\resources.resfiles
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\pri.resfiles
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\qualifiers.txt
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ajay Raghav\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\ProjectArchitectures.txt
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\bin\Debug\App.xbf
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\bin\Debug\MainPage.xbf
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\bin\Debug\BookCricket.exe
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\bin\Debug\BookCricket.pdb
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\bin\Debug\resources.pri
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\bin\Debug\AppxManifest.xml
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\bin\Debug\BookCricket.build.appxrecipe
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\App.g.i.cs
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\App.g.cs
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\MainPage.g.i.cs
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\MainPage.g.cs
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\XamlTypeInfo.g.cs
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\App.xaml
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\App.xbf
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\XamlSaveStateFile.xml
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\MainPage.xaml
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\MainPage.xbf
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\BookCricket.exe
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\BookCricket.pdb
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\priconfig.xml
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\priconfig.xml.intermediate
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\layout.resfiles
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\layout.resfiles.intermediate
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\resources.resfiles
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\resources.resfiles.intermediate
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\pri.resfiles
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\pri.resfiles.intermediate
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\qualifiers.txt
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\qualifiers.txt.intermediate
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Documents\User Data\SkyDrive\Documents\BookCricket\BookCricket\obj\Debug\ProjectArchitectures.txt
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Debug\App.xbf
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Debug\MainPage.xbf
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Debug\BookCricket.exe
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Debug\BookCricket.pdb
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Debug\resources.pri
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Debug\AppxManifest.xml
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Debug\BookCricket.build.appxrecipe
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\App.g.i.cs
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\App.g.cs
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\MainPage.g.i.cs
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\MainPage.g.cs
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\XamlTypeInfo.g.cs
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\MainPage.xaml
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\MainPage.xbf
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\XamlSaveStateFile.xml
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\App.xaml
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\App.xbf
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\BookCricket.exe
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\BookCricket.pdb
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\priconfig.xml
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\priconfig.xml.intermediate
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\layout.resfiles
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\layout.resfiles.intermediate
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\resources.resfiles
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\resources.resfiles.intermediate
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\pri.resfiles
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\pri.resfiles.intermediate
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\qualifiers.txt
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\qualifiers.txt.intermediate
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\obj\Debug\ProjectArchitectures.txt

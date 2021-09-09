@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MEPHISTO</Machine>
+    <WindowsUser>Ajay Raghav</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a5b60e35-2b49-4a0a-b26b-098711353927</PackageIdentityName>
+    <RegisteredManifestChecksum>02E36F86ED2875A1DE922DD9A4A72E88015934630E5BAFA0F66BC2A9F2485C7D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a5b60e35-2b49-4a0a-b26b-098711353927_1.0.0.0_neutral__dxcwd0p1nhp06</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a5b60e35-2b49-4a0a-b26b-098711353927_dxcwd0p1nhp06!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a5b60e35-2b49-4a0a-b26b-098711353927</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Vikram Singh</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-25T09:52:21.472</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Release\BookCricket.exe">
+      <PackagePath>BookCricket.exe</PackagePath>
+      <Modified>2014-01-25T10:56:09.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-12-01T11:24:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-01-25T09:52:20.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-01-25T10:52:04.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Corporate\ANIco.in\Windows Store Apps\BookCricket\BookCricket\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-01-25T09:52:21.128</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
